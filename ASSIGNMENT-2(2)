@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ASSINGMENT-2(2)</title>
+</head>
+<body background="https://i.pinimg.com/564x/4b/fc/65/4bfc655d8840cfc67b35567d767cd09f.jpg"text="black">
+
+  <h2 align="center">
+    <font color="red" size="6"><b>CURRICULUM VITAE</b></font>
+  </h2>
+
+  <font size="4" face="Arial">
+    <b>SUNKARI PRAHALAD</b><br><br>
+
+    <b><u>Address:</u></b> Pandaripuram, chilakaluripet, Andhra Pradesh – 522616<br><br>
+
+    <b><u>Mobile:</u></b> +91 9876543210<br><br>
+
+    <b><u>Email:</u></b> sunkariprahlad@gmail.com<br><br>
+
+    <hr color="white">
+
+    <b><u>Career Objective</u></b><br>
+    To become a skilled web developer by continuously learning and applying knowledge gained through 
+    academic and industrial experiences, especially in full stack development.
+
+    <br><br>
+    <b><u>Educational Qualification:</u></b><br>
+    B.Tech in Computer Science and Engineering – VIT-AP University, Amaravati – 2027 <br>
+    Intermediate – BHASHYAM, Guntur – 2023<br>
+    SSC – BHASHYAM, Andhra Pradesh – 2021
+
+    <br><br>
+    <b><u>Computer Skills:</u></b><br>
+    MERN Stack Development (MongoDB, Express.js, React.js, Node.js)<br>
+    HTML, CSS, JavaScript (Basic)<br>
+    Git & GitHub<br>
+    Basic Linux Commands<br>
+    MS Office Suite
+
+    <br><br>
+    <hr color="white">
+
+  </font>
+
+</body>
+</html>
