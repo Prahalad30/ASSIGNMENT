@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>ASSIGNMENT-1</h1>
+    <topic_1><h4><u>HTML TABLES :</u></h4></topic_1>
+    <table border="1" bgcolor="skyblue" bordercolor="white" height="20px" width="1000px" cellpadding="1px" cellspacing="1px">
+
+        <tr>
+            <th>FRIST NAME</th>
+            <th>LAST NAME</th>
+            <th>AGE</th>
+        </tr>
+        <tr>
+            <td>Jill</td>
+            <td>Smith</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Eve</td>
+            <td>Jackson</td>
+            <td>94</td>
+        </tr>
+        <tr>
+            <td>John</td>
+            <td>Doe</td>
+            <td>80</td>
+        </tr>
+    </table>
+    <br/>
+    <div><b>HTML TABLE WITH CURVE EDGES</b></div>
+    <table border="1" bgcolor="skyblue" bordercolor="white" height="20px" width="1000px" cellpadding="1px" cellspacing="1px">
+        <tr>
+            <th style="border-radius: 50px;">FRIST NAME</th>
+            <th style="border-radius: 50px;">LAST NAME</th>
+            <th style="border-radius: 50px;">AGE</th>
+        </tr>
+        <tr>
+            <td style="border-radius: 50px;">Jill</td>
+            <td style="border-radius: 50px;">Smith</td>
+            <td style="border-radius: 50px;">50</td>
+        </tr>
+        <tr>
+            <td style="border-radius: 50px;">Eve</td>
+            <td style="border-radius: 50px;">Jackson</td>
+            <td style="border-radius: 50px;">94</td>
+        </tr>
+        <tr>
+            <td style="border-radius: 50px;">John</td>
+            <td style="border-radius: 50px;">Doe</td>
+            <td style="border-radius: 50px;">80</td>
+        </tr>
+    </table>
+
+</body>
+</html>
