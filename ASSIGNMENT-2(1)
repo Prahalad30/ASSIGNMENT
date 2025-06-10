@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Assignment 2 (Simple Design)</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 15px;
+      color: #222;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 5px;
+    }
+    hr {
+      border: none;
+      height: 2px;
+      background-color: #d32f2f;
+      width: 95%;
+      margin: 0 auto 30px;
+    }
+    p {
+      font-size: 1rem;
+      line-height: 1.5;
+      margin-bottom: 1.25rem;
+    }
+    b {
+      color: #0b63ce;
+    }
+    h2 {
+      font-size: 1.5rem;
+      margin-bottom: 15px;
+      color: #222;
+      font-weight: bold;
+    }
+    u {
+      text-decoration-color: #d32f2f;
+    }
+    i {
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>HTML Assignment 2</h1>
+  <hr />
+
+  <p>
+    It is my <b>SECOND HTML</b> assignment. I am <b>SUNKARI PRAHALAD</b> excited to learn HTML, and I want to make a career in 
+    <b>web designing</b>. I hope this industrial Certification course provided by <b>ETHNUS</b> helps me build a strong base for my career.
+  </p>
+
+  <h2>Introduction to HTML</h2>
+
+  <p>
+    HTML (<i>Hypertext Markup Language</i>) is used to create documents on the <u>World Wide Web</u>. 
+    <i>It is simply a collection of certain key words called "Tags" that are helpful in writing the document to be displayed using a browser on the Internet.</i> 
+    HTML was developed by <b>Tim Berners-Lee</b> in 1992.
+  </p>
+
+  <p>
+    HTML is the foundation of all web pages. It describes the structure of a web page using markup. Elements are the building blocks of HTML pages. These elements are represented by tags such as 
+    <b>&lt;html&gt;</b>, <b>&lt;head&gt;</b>, <b>&lt;body&gt;</b>, <b>&lt;p&gt;</b>, and many more.
+  </p>
+
+  <p>
+    Tags usually come in pairs: an opening tag and a closing tag. For example, the paragraph tag 
+    <b>&lt;p&gt;</b> opens a paragraph, and <b>&lt;/p&gt;</b> closes it. Everything in between is the content of the paragraph.
+  </p>
+
+  <p>
+    HTML is not a programming language; it is a markup language. It allows the use of headings, paragraphs, links, images, tables, and forms. It is often used in combination with CSS (for styling) and JavaScript (for interactivity) to build full-featured websites.
+  </p>
+
+  <p>
+    Learning HTML is the first step towards becoming a web developer, as it gives you full control over the content and structure of your web pages.
+  </p>
+
+</body>
+</html>
