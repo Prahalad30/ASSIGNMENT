@@ -1,0 +1,156 @@
+C<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ASSIGNMENT-3(2)</title>
+  <style>
+    /* Reset default margin and padding */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: linear-gradient(to bottom right, #87ceeb, #b0e0e6); /* soft sky blue gradient */
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #333;
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    h1 {
+      text-align: center;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      font-size: 3rem;
+      color: #222;
+      margin-bottom: 5px;
+      letter-spacing: 2px;
+    }
+
+    h1 br {
+      display: none; /* remove line break, using block below */
+    }
+
+    /* Separate line below h1 for "COMPUTER ACADEMY" */
+    h1::after {
+      content: "COMPUTER ACADEMY";
+      display: block;
+      font-size: 1.8rem;
+      font-weight: 600;
+      margin-top: 0.2em;
+      letter-spacing: 1.5px;
+      color: #555;
+    }
+
+    hr {
+      border: none;
+      height: 3px;
+      background-color: #c62828; /* deep red */
+      width: 95%;
+      margin: 20px auto;
+      border-radius: 3px;
+    }
+
+    nav {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #c62828;
+      font-weight: 600;
+      margin: 0 20px;
+      font-size: 1.1rem;
+      transition: color 0.3s ease;
+    }
+
+    nav a:hover {
+      color: #880e0e;
+      text-decoration: underline;
+    }
+
+    img {
+      float: right;
+      margin-left: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      max-width: 300px;
+      height: auto;
+    }
+
+    h2 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: #222;
+      margin-top: 40px;
+      margin-bottom: 15px;
+      border-left: 6px solid #c62828;
+      padding-left: 12px;
+    }
+
+    p {
+      max-width: 700px;
+      margin-bottom: 20px;
+      font-size: 1.1rem;
+      color: #444;
+    }
+
+    marquee {
+      background-color: #c62828;
+      color: white;
+      font-weight: 700;
+      padding: 10px 0;
+      font-size: 1rem;
+      border-radius: 5px;
+      margin-top: 40px;
+      display: block;
+    }
+
+    marquee a {
+      color: #ffeb3b;
+      font-weight: 700;
+      text-decoration: underline;
+      margin-left: 8px;
+    }
+    marquee a:hover {
+      color: #fff176;
+    }
+  </style>
+</head>
+<body>
+  <h1>INFOMAX</h1>
+
+  <hr />
+
+  <nav>
+    <a href="#">HOME</a>
+    <a href="#">ABOUT US</a>
+    <a href="#">COURSES</a>
+    <a href="#">NIELIT</a>
+  </nav>
+
+  <hr />
+
+  <img src="https://img.freepik.com/free-vector/man-using-laptop-cartoon_1308-120757.jpg?semt=ais_hybrid&w=740" alt="Student Image" />
+
+  <h2>Who We Are?</h2>
+  <p>
+    Infomax is a Computer Academy which provides high quality computer education at a very high standard at a low cost.
+  </p>
+  <p>
+    ICA's mission is to create a pool of high quality software professionals who will meet the demanding needs of multinational organizations for tomorrow's challenges.
+  </p>
+
+  <h2>What We Offer?</h2>
+  <p>
+    We are committed to provide technology-based education to all sections of the society, for the overall development of the country through continual improvements of quality management system to achieve our objectives of promoting younger generation towards prosperity.
+  </p>
+
+  <marquee scrollamount="10">
+    Dear Student O Level Registration Start now for Registration
+    <a href="#">click here</a>
+  </marquee>
+</body>
+</html>
