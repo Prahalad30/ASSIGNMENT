@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <topic_3><h4><u>HYPER LINKS IN WEB PAGE</u></h4></topic_3>
+
+    <h5>Opens in Same Page</h5>
+    <a href="https://www.flipkart.com/" target="_self">Go To flipkart</a>
+    <h5>Opens in New Page </h5>
+    <a href="https://www.flipkart.com/" target="_blank">Go To flipkart</a>
+    <h5>Opens in Parent Frame </h5> 
+    <a href="https://www.flipkart.com/" target="_parent">Go To flipkart</a>
+    <h5>Opens in Full Body of Window</h5> 
+    <a href="https://www.flipkart.com/" target="_top">Go To flipkart</a>
+    <h5>Opens in Named iframe</h5> 
+    <a href="https://www.flipkart.com/" target="_framename">Go To flipkart</a>
+
+    <extra><h4>HYPER LINK IN IMAGE</h4></extra>
+    <p>click on the image to open flipkart</p>
+    <a href="https://www.flipkart.com/" target="_self"><img src="https://logos-world.net/wp-content/uploads/2020/04/flipkart-Logo.png" width="50"></a>
+
+    <div style="border: 1px solid #000; padding: 10px; width: fit-content;">
+        <h2>Contact Us</h2>
+        <p>Click the link below to send us an email:</p>
+        <a href="mail to:sunkariprahlad@gmail.com">Send Email</a>
+    </div>
+</body>
+</html>
